@@ -193,7 +193,12 @@ body {
     }
 
     .mobile-actions {
-        background-color: #fff;
+        background-color: #F7F2EA;
+        height: 60px;
+        padding: 0 80px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
     }
 
     .menu {
